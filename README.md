@@ -40,12 +40,20 @@ I'm Yash Bhidawe — Full Stack Developer (MERN) building fast, modern web apps 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhidawe&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhidawe&theme=react" width="100%"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashbhidawe/yashbhidawe/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashbhidawe/yashbhidawe/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yashbhidawe/yashbhidawe/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
+---
+
+### 📊 Contribution Distribution
+
 <div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yashbhidawe&skills=JavaScript,TypeScript,React,HTML,CSS,NodeJS&width=820" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yashbhidawe/yashbhidawe/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
