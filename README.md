@@ -34,16 +34,24 @@ I'm Yash Bhidawe — Full Stack Developer (MERN) building fast, modern web apps 
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhidawe&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
+<div align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhidawe&theme=react" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yashbhidawe&skills=JavaScript,TypeScript,React,HTML,CSS,NodeJS&width=820" width="100%"/>
+</div>
+
 ---
 
 ### 🔗 Links  
-📌 [Portfolio](https://itsokyash.vercel.app/) • [LinkedIn](https://linkedin.com/in/itsokyash) • [Twitter (X)](https://x.com/itsokyash_) • [GitHub](https://github.com/yashbhidawe)
+📌 [Portfolio](https://vaibhav-matere-portfolio-v2.vercel.app/) • [LinkedIn](https://linkedin.com/in/itsokyash) • [Twitter (X)](https://x.com/itsokyash_) • [GitHub](https://github.com/yashbhidawe)
 
 ---
 
