@@ -1,7 +1,6 @@
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/waka_c03b5477-ddc7-4a9e-bddd-95d8936d5a78.svg)](https://wakatime.com/@waka_c03b5477-ddc7-4a9e-bddd-95d8936d5a78)
-<a href="https://visitorbadge.io/status?path=yashbhidawe"><img src="https://api.visitorbadge.io/api/visitors?path=yashbhidawe&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+[![wakatime](https://wakatime.com/badge/user/16826cb0-56ce-4a6e-b9c9-768be250881b.svg)](https://wakatime.com/@16826cb0-56ce-4a6e-b9c9-768be250881b)<a href="https://visitorbadge.io/status?path=yashbhidawe"><img src="https://api.visitorbadge.io/api/visitors?path=yashbhidawe&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/yashbhidawe?tab=repositories"><img src="https://img.shields.io/github/stars/yashbhidawe?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=itsokyash&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/itsokyash/)
 [![GitHub followers](https://img.shields.io/github/followers/yashbhidawe.svg?label=Follow%20@YashBhidawe&style=social)](https://github.com/yashbhidawe)
