@@ -9,7 +9,7 @@
 ---
 
 <h4>
-I'm Yash Bhidawe — Full Stack Developer (MERN) building fast, modern web apps with clean UI and robust backend logic. I like solving real problems with practical code, keeping things lean and impactful.
+Yash This Side! — Full Stack Developer (MERN) building fast, modern web apps with clean UI and robust backend logic. I like solving real problems with practical code, keeping things lean and impactful.
 </h4>
 
 </div>
@@ -44,9 +44,7 @@ I'm Yash Bhidawe — Full Stack Developer (MERN) building fast, modern web apps 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhidawe&theme=react" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yashbhidawe&skills=JavaScript,TypeScript,React,HTML,CSS,NodeJS&width=820" width="100%"/>
-</div>
+
 
 ---
 
