@@ -1,7 +1,7 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/16826cb0-56ce-4a6e-b9c9-768be250881b.svg)](https://wakatime.com/@16826cb0-56ce-4a6e-b9c9-768be250881b)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe%2F&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe)
+[![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe%2F&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe)
 <a href="https://github.com/yashbhidawe?tab=repositories"><img src="https://img.shields.io/github/stars/yashbhidawe?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=itsokyash&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/itsokyash/)
 [![GitHub followers](https://img.shields.io/github/followers/yashbhidawe.svg?label=Follow%20@YashBhidawe&style=social)](https://github.com/yashbhidawe)
