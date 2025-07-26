@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASH%20BHIDAWE&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Web%20Development&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASH%20BHIDAWE&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=51&descAlign=50"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
@@ -137,7 +137,6 @@ Goals:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=yashbhidawe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
