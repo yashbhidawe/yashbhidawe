@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASH%20BHIDAWE&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=51&descAlign=50"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
-</div>
 
 [![wakatime](https://wakatime.com/badge/user/16826cb0-56ce-4a6e-b9c9-768be250881b.svg)](https://wakatime.com/@16826cb0-56ce-4a6e-b9c9-768be250881b)
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe%2F&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe)
