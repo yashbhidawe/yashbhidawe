@@ -34,7 +34,7 @@ const yash = {
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
