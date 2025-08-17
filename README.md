@@ -51,7 +51,7 @@ const yash = {
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **GitHub Stats**
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashbhidawe&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats"/>
