@@ -23,7 +23,7 @@ const yash = {
     approach: "Clean Code & User Experience",
     location: "India",
     currentStatus: "Building & Learning",
-    openTo: "New Opportunities"
+ 
 };
 ```
 
