@@ -1,5 +1,4 @@
 # Hi, I'm Yash 👋
-
 **Full Stack Developer | MERN Stack Enthusiast**
 
 [![wakatime](https://wakatime.com/badge/user/16826cb0-56ce-4a6e-b9c9-768be250881b.svg)](https://wakatime.com/@16826cb0-56ce-4a6e-b9c9-768be250881b)
@@ -39,7 +38,7 @@ I'm passionate about building modern web applications with clean, intuitive inte
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itsokyash_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=yashbhidawe&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+[![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe%2F&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe)
 
 *"Code is like humor. When you have to explain it, it's bad."* 😄
 
