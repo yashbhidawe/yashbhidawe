@@ -14,7 +14,7 @@ I'm passionate about building modern web applications with clean, intuitive inte
 ## Tech Stack
 
 **Frontend:** JavaScript, TypeScript, React, Next.js, Redux, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**Backend:** Node.js, Express.js, Python, FastAPI, MongoDB, Firebase  
 **Tools:** Git, GitHub, Postman, VS Code
 
 ### 📊 GitHub Vibes
