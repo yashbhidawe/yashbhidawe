@@ -1,5 +1,5 @@
 # Hi, I'm Yash 👋
-**Full Stack Developer | MERN Stack Enthusiast**
+**Full Stack Developer | MERN-Python-NextJS**
 
 [![wakatime](https://wakatime.com/badge/user/16826cb0-56ce-4a6e-b9c9-768be250881b.svg)](https://wakatime.com/@16826cb0-56ce-4a6e-b9c9-768be250881b)
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=&message=LinkedIn&logo=linkedin&style=flat&color=0A66C2&logoColor=white)](https://www.linkedin.com/in/itsokyash/)
@@ -40,6 +40,5 @@ I'm passionate about building modern web applications with clean, intuitive inte
 
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe%2F&labelColor=%23555555&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyashbhidawe%2Fyashbhidawe)
 
-*"Code is like humor. When you have to explain it, it's bad."* 😄
 
 </div>
