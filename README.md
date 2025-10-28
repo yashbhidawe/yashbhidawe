@@ -18,14 +18,12 @@ I'm passionate about building modern web applications with clean, intuitive inte
 
 ### 📊 GitHub Vibes
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashbhidawe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&custom_title=Yash's+GitHub+Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhidawe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=yashbhidawe&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <a href="https://github.com/yashbhidawe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhidawe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=yashbhidawe&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
